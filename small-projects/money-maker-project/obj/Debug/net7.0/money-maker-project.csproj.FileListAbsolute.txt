@@ -1,0 +1,15 @@
+D:\Coding-Files\C#-projects\small-projects\money-maker-project\bin\Debug\net7.0\money-maker-project.exe
+D:\Coding-Files\C#-projects\small-projects\money-maker-project\bin\Debug\net7.0\money-maker-project.deps.json
+D:\Coding-Files\C#-projects\small-projects\money-maker-project\bin\Debug\net7.0\money-maker-project.runtimeconfig.json
+D:\Coding-Files\C#-projects\small-projects\money-maker-project\bin\Debug\net7.0\money-maker-project.dll
+D:\Coding-Files\C#-projects\small-projects\money-maker-project\bin\Debug\net7.0\money-maker-project.pdb
+D:\Coding-Files\C#-projects\small-projects\money-maker-project\obj\Debug\net7.0\money-maker-project.csproj.AssemblyReference.cache
+D:\Coding-Files\C#-projects\small-projects\money-maker-project\obj\Debug\net7.0\money-maker-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding-Files\C#-projects\small-projects\money-maker-project\obj\Debug\net7.0\money-maker-project.AssemblyInfoInputs.cache
+D:\Coding-Files\C#-projects\small-projects\money-maker-project\obj\Debug\net7.0\money-maker-project.AssemblyInfo.cs
+D:\Coding-Files\C#-projects\small-projects\money-maker-project\obj\Debug\net7.0\money-maker-project.csproj.CoreCompileInputs.cache
+D:\Coding-Files\C#-projects\small-projects\money-maker-project\obj\Debug\net7.0\money-maker-project.dll
+D:\Coding-Files\C#-projects\small-projects\money-maker-project\obj\Debug\net7.0\refint\money-maker-project.dll
+D:\Coding-Files\C#-projects\small-projects\money-maker-project\obj\Debug\net7.0\money-maker-project.pdb
+D:\Coding-Files\C#-projects\small-projects\money-maker-project\obj\Debug\net7.0\money-maker-project.genruntimeconfig.cache
+D:\Coding-Files\C#-projects\small-projects\money-maker-project\obj\Debug\net7.0\ref\money-maker-project.dll
