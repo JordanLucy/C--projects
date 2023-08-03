@@ -1,0 +1,15 @@
+D:\Coding-Files\C#-projects\small-projects\mad-libs-project\bin\Debug\net7.0\mad-libs-project.exe
+D:\Coding-Files\C#-projects\small-projects\mad-libs-project\bin\Debug\net7.0\mad-libs-project.deps.json
+D:\Coding-Files\C#-projects\small-projects\mad-libs-project\bin\Debug\net7.0\mad-libs-project.runtimeconfig.json
+D:\Coding-Files\C#-projects\small-projects\mad-libs-project\bin\Debug\net7.0\mad-libs-project.dll
+D:\Coding-Files\C#-projects\small-projects\mad-libs-project\bin\Debug\net7.0\mad-libs-project.pdb
+D:\Coding-Files\C#-projects\small-projects\mad-libs-project\obj\Debug\net7.0\mad-libs-project.csproj.AssemblyReference.cache
+D:\Coding-Files\C#-projects\small-projects\mad-libs-project\obj\Debug\net7.0\mad-libs-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding-Files\C#-projects\small-projects\mad-libs-project\obj\Debug\net7.0\mad-libs-project.AssemblyInfoInputs.cache
+D:\Coding-Files\C#-projects\small-projects\mad-libs-project\obj\Debug\net7.0\mad-libs-project.AssemblyInfo.cs
+D:\Coding-Files\C#-projects\small-projects\mad-libs-project\obj\Debug\net7.0\mad-libs-project.csproj.CoreCompileInputs.cache
+D:\Coding-Files\C#-projects\small-projects\mad-libs-project\obj\Debug\net7.0\mad-libs-project.dll
+D:\Coding-Files\C#-projects\small-projects\mad-libs-project\obj\Debug\net7.0\refint\mad-libs-project.dll
+D:\Coding-Files\C#-projects\small-projects\mad-libs-project\obj\Debug\net7.0\mad-libs-project.pdb
+D:\Coding-Files\C#-projects\small-projects\mad-libs-project\obj\Debug\net7.0\mad-libs-project.genruntimeconfig.cache
+D:\Coding-Files\C#-projects\small-projects\mad-libs-project\obj\Debug\net7.0\ref\mad-libs-project.dll
