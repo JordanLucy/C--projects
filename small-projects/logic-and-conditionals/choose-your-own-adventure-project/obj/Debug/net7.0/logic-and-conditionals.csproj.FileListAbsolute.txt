@@ -1,0 +1,15 @@
+D:\Coding-Files\C#-projects\small-projects\logic-and-conditionals\bin\Debug\net7.0\logic-and-conditionals.exe
+D:\Coding-Files\C#-projects\small-projects\logic-and-conditionals\bin\Debug\net7.0\logic-and-conditionals.deps.json
+D:\Coding-Files\C#-projects\small-projects\logic-and-conditionals\bin\Debug\net7.0\logic-and-conditionals.runtimeconfig.json
+D:\Coding-Files\C#-projects\small-projects\logic-and-conditionals\bin\Debug\net7.0\logic-and-conditionals.dll
+D:\Coding-Files\C#-projects\small-projects\logic-and-conditionals\bin\Debug\net7.0\logic-and-conditionals.pdb
+D:\Coding-Files\C#-projects\small-projects\logic-and-conditionals\obj\Debug\net7.0\logic-and-conditionals.csproj.AssemblyReference.cache
+D:\Coding-Files\C#-projects\small-projects\logic-and-conditionals\obj\Debug\net7.0\logic-and-conditionals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding-Files\C#-projects\small-projects\logic-and-conditionals\obj\Debug\net7.0\logic-and-conditionals.AssemblyInfoInputs.cache
+D:\Coding-Files\C#-projects\small-projects\logic-and-conditionals\obj\Debug\net7.0\logic-and-conditionals.AssemblyInfo.cs
+D:\Coding-Files\C#-projects\small-projects\logic-and-conditionals\obj\Debug\net7.0\logic-and-conditionals.csproj.CoreCompileInputs.cache
+D:\Coding-Files\C#-projects\small-projects\logic-and-conditionals\obj\Debug\net7.0\logic-and-conditionals.dll
+D:\Coding-Files\C#-projects\small-projects\logic-and-conditionals\obj\Debug\net7.0\refint\logic-and-conditionals.dll
+D:\Coding-Files\C#-projects\small-projects\logic-and-conditionals\obj\Debug\net7.0\logic-and-conditionals.pdb
+D:\Coding-Files\C#-projects\small-projects\logic-and-conditionals\obj\Debug\net7.0\logic-and-conditionals.genruntimeconfig.cache
+D:\Coding-Files\C#-projects\small-projects\logic-and-conditionals\obj\Debug\net7.0\ref\logic-and-conditionals.dll
